@@ -1,0 +1,21 @@
+html{
+    background: rgb(0, 0, 0);
+ } 
+ body{
+    
+    
+    background: rgb(0, 0, 0);
+    color: white;}
+    
+    a {
+        color: rgb(255, 255, 255); /* Couleur normale */
+    }
+    a:hover {
+        color: rgb(46, 41, 41); /* Couleur au survol */
+    }
+</style>
+
+.{ text-align: center;
+    color: white;
+}
+
